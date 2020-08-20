@@ -1,3 +1,3 @@
-hacktic.nl
+Pieter Wuille; sipa
 
 ![](https://github.com/nondejus/hacktic.nl/blob/master/n7gHdLbB.jpg)
